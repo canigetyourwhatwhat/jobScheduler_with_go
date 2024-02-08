@@ -1,0 +1,10 @@
+failedTimeOutDuration: 30s
+jobs:
+  - name: job1
+    waitDuration: 2s
+  - name: job2
+    waitDuration: 8s
+  - name: job3
+    waitDuration: 5s
+  - name: job4
+    waitDuration: 20s
